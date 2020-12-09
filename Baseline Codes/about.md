@@ -5,7 +5,8 @@ the first line (i.e., "function [outputs]=maincode(inputs)") are turned on in th
 Parallel Computing Toolbox in Matlab.
 
 Run file "basePV1_basePV2_sensitivity_analyses.m" to explore the model's sensitivity to different combinations of property values in each community. Sample 
-output data from this model run is included in file "basePV1_basePV2_sensitivity_analyses_DATA.mat".
+output data from this model run is included in file "basePV1_basePV2_sensitivity_analyses_DATA.mat". Sample output data for the model run in figure 8b with
+larger community sizes is also included in file "basePV1_basePV2_sensitivity_analyses_DATA_largerS.mat".
 
 Run file "basePV1_basePV2_figures_behaviors_benefitofcoordination.m" to reproduce figures 5a-b, 5e, A1a-c in the paper (i.e., the emergent mode behaviors and 
 the marginal importance of coordination for each property value combination in your regime space).
