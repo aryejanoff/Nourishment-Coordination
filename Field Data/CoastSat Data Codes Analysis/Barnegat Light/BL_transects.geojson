@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28356" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "1" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572533.629394798539579, 24374816.286499187350273 ], [ 4572396.610085539519787, 24375034.721550043672323 ] ] } },
+{ "type": "Feature", "properties": { "name": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572752.078082383610308, 24374940.460085589438677 ], [ 4572563.637216586619616, 24375141.749192234128714 ] ] } },
+{ "type": "Feature", "properties": { "name": "3" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572480.123651062138379, 24374797.151094615459442 ], [ 4572308.813773064874113, 24375021.995309486985207 ] ] } },
+{ "type": "Feature", "properties": { "name": "4" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572409.458326388150454, 24374752.182251639664173 ], [ 4572265.986303565092385, 24374998.440201263874769 ] ] } },
+{ "type": "Feature", "properties": { "name": "5" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572345.217122139409184, 24374720.061649516224861 ], [ 4572212.451966690830886, 24374985.591960411518812 ] ] } },
+{ "type": "Feature", "properties": { "name": "6" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572287.400038314983249, 24374690.082420866936445 ], [ 4572137.503895066678524, 24374966.319599136710167 ] ] } },
+{ "type": "Feature", "properties": { "name": "7" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572229.582954490557313, 24374655.820445265620947 ], [ 4572081.828184717334807, 24374951.329984813928604 ] ] } },
+{ "type": "Feature", "properties": { "name": "8" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572143.92801549192518, 24374627.982590094208717 ], [ 4571994.031872243620455, 24374929.916250064969063 ] ] } },
+{ "type": "Feature", "properties": { "name": "9" }, "geometry": { "type": "LineString", "coordinates": [ [ 4572056.131703018210828, 24374593.720614492893219 ], [ 4571912.65968019515276, 24374904.219768363982439 ] ] } },
+{ "type": "Feature", "properties": { "name": "10" }, "geometry": { "type": "LineString", "coordinates": [ [ 4571051.827543256804347, 24374300.352448422461748 ], [ 4570996.15183290746063, 24374617.275722716003656 ] ] } },
+{ "type": "Feature", "properties": { "name": "11" }, "geometry": { "type": "LineString", "coordinates": [ [ 4570974.738098157569766, 24374291.786954522132874 ], [ 4570949.041616457514465, 24374615.13434924185276 ] ] } },
+{ "type": "Feature", "properties": { "name": "12" }, "geometry": { "type": "LineString", "coordinates": [ [ 4570285.21583921648562, 24373983.42917412519455 ], [ 4570156.733430719003081, 24374195.425148148089647 ] ] } },
+{ "type": "Feature", "properties": { "name": "13" }, "geometry": { "type": "LineString", "coordinates": [ [ 4569719.893241824582219, 24373754.302212305366993 ], [ 4569677.065772324800491, 24374024.115270152688026 ] ] } },
+{ "type": "Feature", "properties": { "name": "14" }, "geometry": { "type": "LineString", "coordinates": [ [ 4570520.766921463422477, 24374175.702478848397732 ], [ 4570390.14313949085772, 24374415.536308046430349 ] ] } },
+{ "type": "Feature", "properties": { "name": "15" }, "geometry": { "type": "LineString", "coordinates": [ [ 4570692.076799461618066, 24374242.085056573152542 ], [ 4570597.856366562657058, 24374481.918885767459869 ] ] } },
+{ "type": "Feature", "properties": { "name": "16" }, "geometry": { "type": "LineString", "coordinates": [ [ 4571231.702915154397488, 24374355.577850744128227 ], [ 4571182.451325229369104, 24374591.12893299385905 ] ] } },
+{ "type": "Feature", "properties": { "name": "17" }, "geometry": { "type": "LineString", "coordinates": [ [ 4571694.239585747942328, 24374471.212018392980099 ], [ 4571644.987995823845267, 24374704.621727164834738 ] ] } },
+{ "type": "Feature", "properties": { "name": "18" }, "geometry": { "type": "LineString", "coordinates": [ [ 4571827.004741196520627, 24374526.887728743255138 ], [ 4571747.773922622203827, 24374728.176835391670465 ] ] } }
+]
+}
