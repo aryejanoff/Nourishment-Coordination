@@ -15,3 +15,7 @@ Run file "basePV1_basePV2_figures_efficiency.m" to reproduce figures 5c-d in the
 
 Run file "basePV1_basePV2_overundernourishment.m" to reproduce figures 5f-g, A1d-e in the paper (i.e., whether each community nourishes more/less than is 
 economically optimal when choosing their strategy independently relative to their coordinated scheme).
+
+Run file "model_rotation_ratio_analysis.m" to reproduce figures 8a-b in the paper (i.e., rotation length ratios for each paired community couplet). Envelopes
+in this figure were created by drawing a box around the outer edges of the clustered model datapoints. Couple these results with the rotation length ratios 
+from the field, contained in the spreadsheet with file path "Nourishment-Coordination/Field Data/NJ_Field_Data.xlsx".
