@@ -4,3 +4,5 @@ This repository includes all supporting information included in the manuscript b
 
 References:
 Janoff, A., Lorenzo-Trueba, J., Hoagland, P., Jin, D., & Ashton, A. (in prep). From seaward growth to coastal retreat: Emergent behaviors from paired community beach nourishment choices.
+
+[![DOI](https://zenodo.org/badge/238528560.svg)](https://zenodo.org/badge/latestdoi/238528560)
